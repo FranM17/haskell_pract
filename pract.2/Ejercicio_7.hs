@@ -1,0 +1,7 @@
+--La definici ́on de member dada en teor ́ıa (la cual determina si un elemento est ́a en un bst)
+--realiza en el peor caso 2 ∗d comparaciones, donde d es la altura del  ́arbol. Dar una definici ́on
+--de menber que realice a lo sumo d + 1 comparaciones. Para ello definir member en t ́erminos de
+--una funci ́on auxiliar que tenga como par ́ametro el elemento candidato, el cual puede ser igual al
+--elemento que se desea buscar (por ejemplo, el  ́ultimo elemento para el cual la comparaci ́on de
+--a 6b retorn ́o True) y que chequee que los elementos son iguales s ́olo cuando llega a una hoja del
+-- ́arbol
